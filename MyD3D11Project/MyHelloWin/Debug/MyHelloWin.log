@@ -1,0 +1,6 @@
+﻿  MyWindow.cpp
+  main.cpp
+e:\myproject\directxlearning\myd3d11project\myhellowin\main.cpp(8): warning C4007: “WinMain”: 必须是“__stdcall”
+  正在生成代码...
+  MyHelloWin.vcxproj -> E:\MyProject\DirectXLearning\MyD3D11Project\Debug\MyHelloWin.exe
+  MyHelloWin.vcxproj -> E:\MyProject\DirectXLearning\MyD3D11Project\Debug\MyHelloWin.pdb (Full PDB)
